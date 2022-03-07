@@ -20,13 +20,13 @@ This repository contains several R scripts to reclassify and compare connectivit
 
 [2] Bassolas *et al.* (2019) [Hierarchical organization of urban mobility and its connection with city livability](https://www.nature.com/articles/s41467-019-12809-y). *Nature communications* 10, 4817.
 
-[3] Préau *et al.* (2021) [Prioritisation mismatch using dispersal-based connectivity assessment](https://arxiv.org/abs/2105.06702). *arXiv preprint* arXiv:2105.06702.  
+[3] Préau *et al.* (2022) [Dispersal-based species pools as sources of connectivity area mismatches](https://link.springer.com/article/10.1007/s10980-021-01371-y). *Landscape Ecology* 37, 729-743.  
 
 ## Citation
 
 If you use this code, please cite:
 
-Préau *et al.* (2022) [Prioritisation mismatch using dispersal-based connectivity assessment](https://link.springer.com/article/10.1007/s10980-021-01371-y). *Landscape Ecology* 37, 729-743.  
+Préau *et al.* (2022) [Dispersal-based species pools as sources of connectivity area mismatches](https://link.springer.com/article/10.1007/s10980-021-01371-y). *Landscape Ecology* 37, 729-743.  
 
 If you need help, find a bug, want to give me advice or feedback, please contact me!
 You can reach me at maxime.lenormand[at]inrae.fr
