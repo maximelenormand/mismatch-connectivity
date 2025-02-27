@@ -52,14 +52,14 @@ tri-diagonal trace of a matrix and the sum of the matrix
 *Nature communications* 10, 4817.
 
 [3] Préau *et al.* (2022) [Dispersal-based species pools as sources of connectivity area mismatches](https://link.springer.com/article/10.1007/s10980-021-01371-y). 
-*Landscape Ecology* 37, 729-743.  
+*Landscape Ecology* 37, 729-743. [[arXiv](https://arxiv.org/abs/2105.06702)]  
 
 ## Citation
 
 If you use this code, please cite the following reference:
 
 Préau *et al.* (2022) [Dispersal-based species pools as sources of connectivity area mismatches](https://link.springer.com/article/10.1007/s10980-021-01371-y). 
-*Landscape Ecology* 37, 729-743.  
+*Landscape Ecology* 37, 729-743. [[arXiv](https://arxiv.org/abs/2105.06702)]
 
 If you need help, find a bug, want to give me advice or feedback, please contact me!
 
