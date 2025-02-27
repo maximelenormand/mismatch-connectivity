@@ -2,7 +2,7 @@
 library(raster)
 
 # Working directory
-setwd("/home/maxime/Desktop/mismatch-connectivity")
+#setwd("")
 
 # Load function
 source("classify.R")    # Iterative LouBar method (https://www.nature.com/articles/srep05276)
